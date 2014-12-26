@@ -9,7 +9,10 @@ Stream Files are provided for...
  - DJ Sets
  - Podcasts
 
-To view the video streams, download the repsitory files to a location, then
-register that location as a video (or audio) source location. Then select the
-the playlist you wish to view, and enjoy watching 31c3 streaming media on your
-TV!
+To view the video streams...
+
+ 1. Download the repsitory files to a location
+ 2. In Kodi register that location as a video source location (or audio location
+    for DJ sets).
+ 3. Select the playlist you wish to view, and enjoy watching 31c3 streaming media
+    on your TV!
